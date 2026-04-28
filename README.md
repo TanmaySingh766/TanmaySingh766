@@ -133,9 +133,9 @@ Real-time GPU face recognition + voice control + virtual eyes. **Local only.**
 Object-detection pipeline with bounding boxes and class labels.
 `Python · OpenCV · PyTorch`
 
-🛰️ **[UAV_deconfliction_system](https://github.com/TanmaySingh766/UAV_deconfliction_system)**
-Multi-drone airspace deconfliction simulation.
-`Python · simulation · path planning`
+🛰️ **[UAV_deconfliction_system](https://github.com/TanmaySingh766/UAV_deconfliction_system)** ⭐
+Strategic + tactical UAV deconfliction service. Closed-form CCD, R-tree pruning, probabilistic conflict, geofence enforcement, MAVLink replay, 3-tier resolver. FastAPI + PostGIS + Three.js 3D operator console.
+`Python · CCD · MAVLink · FastAPI · PostGIS · Three.js`
 
 </td>
 <td width="50%" valign="top">
