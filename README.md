@@ -117,12 +117,41 @@ who_am_i:
 
 ---
 
-## 🚀 Featured projects
+## 🌟 Spotlight — AI / ML / DL from scratch
 
-> ### 📚 [AI-ML-From-Scratch](https://github.com/TanmaySingh766/AI-ML-From-Scratch) ⭐ — flagship learning repo
-> A complete hands-on journey through **Machine Learning → Deep Learning → Generative AI → AI Agents**, built one notebook at a time with deployed end-to-end projects.
-> **150+ notebooks · 21 end-to-end projects · 12 deployed apps** across 8 structured sections.
-> `Python · PyTorch · scikit-learn · LangChain · LangGraph · FastAPI · Streamlit`
+<p align="center">
+  <a href="https://github.com/TanmaySingh766/AI-ML-From-Scratch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmaySingh766&repo=AI-ML-From-Scratch&theme=tokyonight&hide_border=true&show_owner=true" alt="AI-ML-From-Scratch" />
+  </a>
+</p>
+
+My biggest project — a complete, hands-on journey from **classical ML → Deep Learning → Generative AI → AI Agents**, built one notebook at a time, with deployed end-to-end apps.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Notebooks-150%2B-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/End--to--End_Projects-21-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed_Apps-12-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sections-8-EA4B71?style=for-the-badge" />
+</p>
+
+| Section | What's inside |
+|---|---|
+| **01 · Machine Learning** | 19 classical algorithms — Linear/Logistic → XGBoost → K-Means → DBSCAN → HDBSCAN |
+| **02 · Advanced ML** | Stacking, Optuna, SHAP/LIME, AutoML, imbalanced data, interpretability |
+| **03 · ML Projects** | 9 real-world projects — house price, credit fraud, churn, recommendation, stock |
+| **04 · Deep Learning** | 24 topics across 6 phases (~75 notebooks) |
+| **05 · DL Projects** | 12 deployable apps — FastAPI / Streamlit / Gradio |
+| **06 · Generative AI** | LLMs, RAG, LangChain, fine-tuning, multimodal |
+| **07 · AI Agents** | LangGraph, CrewAI, tool use, multi-agent systems |
+| **08 · GenAI + Agent Projects** | Production GenAI + agentic applications |
+
+<p align="center">
+  <a href="https://github.com/TanmaySingh766/AI-ML-From-Scratch"><b>➡️ Explore the repo →</b></a>
+</p>
+
+---
+
+## 🚀 Featured projects
 
 <table>
 <tr>
