@@ -23,7 +23,7 @@
 
 ## 🙋 About me
 
-I'm an **AI Engineer at Genie AI**, based in Greater Noida.
+I'm an **AI Engineer at Genie AI**, based in Canada.
 I love finding ways to run state-of-the-art AI on **consumer hardware** — laptops, edge devices, anything without an A100.
 
 My current obsession: getting **vision + voice + depth + LLM** all running **locally** on a 4 GB laptop GPU.
