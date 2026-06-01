@@ -119,6 +119,11 @@ who_am_i:
 
 ## 🚀 Featured projects
 
+> ### 📚 [AI-ML-From-Scratch](https://github.com/TanmaySingh766/AI-ML-From-Scratch) ⭐ — flagship learning repo
+> A complete hands-on journey through **Machine Learning → Deep Learning → Generative AI → AI Agents**, built one notebook at a time with deployed end-to-end projects.
+> **150+ notebooks · 21 end-to-end projects · 12 deployed apps** across 8 structured sections.
+> `Python · PyTorch · scikit-learn · LangChain · LangGraph · FastAPI · Streamlit`
+
 <table>
 <tr>
 <td width="50%" valign="top">
