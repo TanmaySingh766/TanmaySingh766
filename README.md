@@ -3,12 +3,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/TanmaySingh766">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Tanmay%20Singh&fontSize=58&fontAlign=50&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Robotics%20Engineer&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Tanmay%20Singh&fontSize=58&fontAlign=50&fontAlignY=38&desc=AI%20Engineer&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="header banner" />
 </a>
 
 <p align="center">
   <a href="https://github.com/TanmaySingh766">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer+%40+One+Simulation;Building+local-first+AI+systems;Vision+%2B+Voice+%2B+RAG+%2B+Robotics;Make+the+smallest+model+that+ships.&font=Fira+Code&center=true&width=540&height=42&color=8b5cf6&vCenter=true&pause=1000&size=20" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer+%40+Genie+AI;Building+local-first+AI+systems;Vision+%2B+Voice+%2B+RAG+%2B+Agents;Make+the+smallest+model+that+ships.&font=Fira+Code&center=true&width=540&height=42&color=8b5cf6&vCenter=true&pause=1000&size=20" alt="typing animation" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 🙋 About me
 
-I'm a **Robotics Engineer at One Simulation**, based in Greater Noida.
+I'm an **AI Engineer at Genie AI**, based in Greater Noida.
 I love finding ways to run state-of-the-art AI on **consumer hardware** — laptops, edge devices, anything without an A100.
 
 My current obsession: getting **vision + voice + depth + LLM** all running **locally** on a 4 GB laptop GPU.
@@ -31,8 +31,8 @@ I think on-device AI matters — for privacy, for cost, for the billion people w
 
 ```yaml
 who_am_i:
-  role:    "Robotics / AI / ML Engineer"
-  works_at: "One Simulation"
+  role:    "AI / ML Engineer"
+  works_at: "Genie AI"
   loves:    [ "real-time vision", "voice AI", "RAG", "agentic workflows" ]
   builds:   "things that fit in 4 GB VRAM"
   watches:  [ "anime", "ML research papers" ]
